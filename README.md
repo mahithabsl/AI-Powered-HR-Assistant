@@ -1,7 +1,11 @@
 # AI-Powered-HR-Assistant
-Faster, Fairer, and More Efficient Hiring using Graph RAG
+Faster, Fairer, and More Efficient Hiring Using Graph RAG
 
 Graph-RAG is a sophisticated question-answering system that leverages knowledge graphs and Retrieval-Augmented Generation (RAG) to provide accurate and context-aware responses. The system processes PDF documents, extracts structured information, and stores it in a Neo4j graph database for efficient querying and retrieval.
+
+![image](https://github.com/user-attachments/assets/f8f09f0d-e9a4-487e-8742-11822912abbd)
+
+Link to connect with us - https://bit.ly/poster-informs-2025
 
 ## Features
 
@@ -125,15 +129,3 @@ Access the web interface at `http://localhost:8501`
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-[Your chosen license]
-
-## Acknowledgments
-
-- Neo4j for graph database
-- LangChain for LLM integration
-- Streamlit for web interface
-- Groq for LLM services
-- Cohere for embeddings 
