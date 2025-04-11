@@ -5,7 +5,12 @@ Graph-RAG is a sophisticated question-answering system that leverages knowledge 
 
 ![image](https://github.com/user-attachments/assets/f8f09f0d-e9a4-487e-8742-11822912abbd)
 
+Chatbot UI:
+
+<img width="782" alt="chatbot_ss_2" src="https://github.com/user-attachments/assets/554e98e7-c5f2-4329-a928-7fc0cc906955" />
+
 Link to connect with us - https://bit.ly/poster-informs-2025
+
 
 ## Features
 
